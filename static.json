@@ -1,0 +1,8 @@
+{
+  "headers":{
+    "/*":{
+    "X-Author":"vlad_milev",
+    "Access-Control-Allow-Origin":"*"
+    }
+  }
+}
